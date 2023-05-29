@@ -1,8 +1,8 @@
 {
     "name": "Dark Matter",
-    "description": "A cold, dark & frosty theme.",
+    "description": "A hot, dark & boiling theme.",
     "version": "3.0",
-    "author": "Tropical#8908, Hammock#3110",
+    "author": "nxyo#9445, Tropical#8908, Hammock#3110",
     "theme": "DarkMatter.theme.css",
     "consent": ["ext_listing"],
     "license": "MIT"
